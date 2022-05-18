@@ -1,0 +1,1 @@
+# Most Up-to-date Klipper Configurations on my MakerGear M2 with SKR 2 Mod
